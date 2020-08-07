@@ -19,7 +19,7 @@ Bu fonksiyon sayesinde birm çok döviz türünü aınında sitenize entegre ede
 **Örnek Kullanım:**
 ```php
 <?php
-require_once("doviz.php"); // Döviz Fonksiyonumuzun Yazılı Olduğu Dosyayı Çağırdık
+require_once("example.php"); // Döviz Fonksiyonumuzun Yazılı Olduğu Dosyayı Çağırdık
 
 echo doviz("EUR","TRY"); // Bir EURO'nun Türk Lirası karşılığını yazdırdık.
 echo doviz("TRY","EUR"); // Bir Türk Lirası'nın EURO karşılığını yazdırdık.
